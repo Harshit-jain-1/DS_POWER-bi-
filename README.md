@@ -1,5 +1,4 @@
 # DS_POWER-bi-
-Power bi dashboard
 Hi, I am Harshit Jain
 
 Data Scientist | Data analyst
